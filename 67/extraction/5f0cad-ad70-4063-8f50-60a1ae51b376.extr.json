@@ -1,0 +1,43 @@
+{
+    "beam_diameter": "3.0",
+    "cleanup_duration": 60.0,
+    "commit": "61117fc743830844107efa17b07282463241f66c",
+    "cryo_temperature": 0.0,
+    "extract_device": "Fusions Diode",
+    "extract_duration": 45.0,
+    "extract_units": "watts",
+    "extract_value": 1.3,
+    "extraction_context": {},
+    "grain_polygons": [],
+    "light_value": 0.0,
+    "load_holder": "10-hole",
+    "load_name": "D0103",
+    "measured_response": "Fw3ETgAAAADIUZA+AAD6RN8WEkAAAPpEDDmJQAAA+kSCVMlAAAD6RJjSBEEAAPpEvOMkQQAA+kSA5kRBAAD6RKYDZUEAAPpEwY+CQQAA+kTvmZJBAAD6RBmYokEAAPpEWqiyQQAA+kTCssJBAAD6RPPA0kEAAPpEZ9DiQQAA+kSh0/JBAAD6RP1qAUIAAPpEinEJQgAA+kQPdxFCAAD6RPR3GUIAAPpEHXchQgAA+kRidilCAAD6RAV3MUIAAPpE7n85QgAA+kQNf0FCAAD6RDt+SUIAAPpE+4tRQgAA+kRdjFlCAAD6RA+SYUIAAPpE1JJpQgAA+kR1mHFCAAD6RASdeUIAAPpEU9GAQgAA+kSz0oRCAAD6REPViEIAAPpE89uMQgAA+kTV25BCAAD6RN3blEIAAPpEsNuYQgAA+kS025xCAAD6RLLeoEIAAPpET+GkQgAA+kT146hCAAD6RGvlrEIAAPpE7+ewQgAA+kSz67RCAAD6RPrruEIAAPpE/uu8QgAA+kRi78BCAAD6RJ30xEIAAPpEifvIQgAA+kRw+8xCAAD6RIv70EIAAPpEHvvUQgAA+kS1+thCAAD6RAD93EIAAPpE",
+    "pattern": "9and10hole_square.lp",
+    "positions": [
+        {
+            "is_degas": false,
+            "position": 7,
+            "x": 11.43,
+            "y": 0.0,
+            "z": 12.0
+        },
+        {
+            "is_degas": false,
+            "position": 10,
+            "x": 7.62,
+            "y": -7.62,
+            "z": 12.0
+        }
+    ],
+    "post_cleanup_duration": 0.0,
+    "pre_cleanup_duration": 0.0,
+    "ramp_duration": 0.0,
+    "ramp_rate": 0.0,
+    "requested_output": "Fw3ETgAAAADIUZA+aD+QQd8WEkAAAAAADDmJQAAAAACCVMlAAAAAAJjSBEEAAAAAvOMkQQAAAACA5kRBn1mVQaYDZUGfWZVBwY+CQZ9ZlUHvmZJBn1mVQRmYokGfWZVBWqiyQZ9ZlUHCssJBn1mVQfPA0kGfWZVBZ9DiQZ9ZlUGh0/JBn1mVQf1qAUKfWZVBinEJQp9ZlUEPdxFCn1mVQfR3GUKfWZVBHXchQp9ZlUFidilCn1mVQQV3MUKfWZVB7n85Qp9ZlUENf0FCn1mVQTt+SUKfWZVB+4tRQp9ZlUFdjFlCn1mVQQ+SYUKfWZVB1JJpQp9ZlUF1mHFCn1mVQQSdeUKfWZVBU9GAQp9ZlUGz0oRCn1mVQUPViEKfWZVB89uMQp9ZlUHV25BCn1mVQd3blEKfWZVBsNuYQp9ZlUG025xCn1mVQbLeoEKfWZVBT+GkQp9ZlUH146hCn1mVQWvlrEKfWZVB7+ewQp9ZlUGz67RCn1mVQfrruEKfWZVB/uu8Qp9ZlUFi78BCn1mVQZ30xEKfWZVBifvIQp9ZlUFw+8xCn1mVQYv70EKfWZVBHvvUQp9ZlUG1+thCn1mVQQD93EKfWZVB",
+    "setpoint_stream": null,
+    "snapshots": [],
+    "tray": "",
+    "videos": [],
+    "weight": 60.1
+}
