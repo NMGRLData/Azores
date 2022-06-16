@@ -1,6 +1,6 @@
 {
     "Ar36": {
-        "error": 6.491287376028346e-05,
+        "error": 6.491287376028365e-05,
         "error_type": "",
         "fit": "Bracketing Interpolate",
         "references": [
@@ -78,30 +78,10 @@
                 "exclude": "ok",
                 "record_id": "bu-FD-F-2449",
                 "uuid": "b52cc46e-f803-4db6-a679-0ccda0b7c0a7"
-            },
-            {
-                "exclude": "ok",
-                "record_id": "bu-FD-F-2450",
-                "uuid": "dc34104b-6609-45cc-8d0d-f9f4a6cbbefe"
-            },
-            {
-                "exclude": "ok",
-                "record_id": "bu-FD-F-2451",
-                "uuid": "1e8da786-8ab9-43a2-a6fe-51c65f22170a"
-            },
-            {
-                "exclude": "ok",
-                "record_id": "bu-FD-F-2452",
-                "uuid": "6eb5b7f7-60f0-42bd-8055-115fa01602e8"
-            },
-            {
-                "exclude": "ok",
-                "record_id": "bu-FD-F-2453",
-                "uuid": "6ca4d464-8821-4d1e-adfe-e4faa0dd646c"
             }
         ],
         "reviewed": true,
-        "value": 0.0017479672870397492
+        "value": 0.0017479672870397561
     },
     "Ar37": {
         "error": 0.01959622777798029,
@@ -536,7 +516,7 @@
         "value": 0.009847071121364086
     },
     "Ar40": {
-        "error": 0.015747922371275105,
+        "error": 0.020027916954075676,
         "error_type": "",
         "fit": "Bracketing Interpolate",
         "references": [
@@ -614,29 +594,9 @@
                 "exclude": "ok",
                 "record_id": "bu-FD-F-2449",
                 "uuid": "b52cc46e-f803-4db6-a679-0ccda0b7c0a7"
-            },
-            {
-                "exclude": "ok",
-                "record_id": "bu-FD-F-2450",
-                "uuid": "dc34104b-6609-45cc-8d0d-f9f4a6cbbefe"
-            },
-            {
-                "exclude": "ok",
-                "record_id": "bu-FD-F-2451",
-                "uuid": "1e8da786-8ab9-43a2-a6fe-51c65f22170a"
-            },
-            {
-                "exclude": "ok",
-                "record_id": "bu-FD-F-2452",
-                "uuid": "6eb5b7f7-60f0-42bd-8055-115fa01602e8"
-            },
-            {
-                "exclude": "ok",
-                "record_id": "bu-FD-F-2453",
-                "uuid": "6ca4d464-8821-4d1e-adfe-e4faa0dd646c"
             }
         ],
         "reviewed": true,
-        "value": 0.2944851298049239
+        "value": 0.2947144872917564
     }
 }
