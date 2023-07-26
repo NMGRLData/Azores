@@ -66,7 +66,7 @@
         "value": 1.0176484070582277
     },
     "CDD": {
-        "error": 0.0014954197206231104,
+        "error": 0.0014872039902795947,
         "fit": "Bracketing Average",
         "reference_data": {
             "es": [
@@ -217,7 +217,7 @@
         ],
         "reviewed": true,
         "standard_ratio": 295.5,
-        "value": 1.0020938216292172
+        "value": 1.0019923009805538
     },
     "H1": {
         "error": 1e-20,
