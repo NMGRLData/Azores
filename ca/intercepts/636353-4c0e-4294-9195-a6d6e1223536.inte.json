@@ -5,9 +5,17 @@
         "filter_outliers_dict": {
             "filter_outliers": true,
             "iterations": 1,
-            "std_devs": 2
+            "std_devs": 2,
+            "use_iqr_filtering": false,
+            "use_standard_deviation_filtering": false
         },
         "fit": "linear",
+        "fn": 0,
+        "include_baseline_error": false,
+        "n": 0,
+        "outlier_excluded": null,
+        "reviewed": true,
+        "user_excluded": null,
         "value": 0.17022902367954215
     },
     "Ar37": {
@@ -21,14 +29,12 @@
             "use_standard_deviation_filtering": false
         },
         "fit": "linear",
-        "fn": 399,
+        "fn": 400,
         "include_baseline_error": true,
         "n": 400,
-        "outlier_excluded": [
-            96
-        ],
+        "outlier_excluded": null,
         "reviewed": true,
-        "user_excluded": [],
+        "user_excluded": null,
         "value": -0.0039340483949252825
     },
     "Ar38": {
@@ -45,9 +51,9 @@
         "fn": 400,
         "include_baseline_error": true,
         "n": 400,
-        "outlier_excluded": [],
+        "outlier_excluded": null,
         "reviewed": true,
-        "user_excluded": [],
+        "user_excluded": null,
         "value": -0.03380542384367882
     },
     "Ar39": {
@@ -64,9 +70,9 @@
         "fn": 400,
         "include_baseline_error": true,
         "n": 400,
-        "outlier_excluded": [],
+        "outlier_excluded": null,
         "reviewed": true,
-        "user_excluded": [],
+        "user_excluded": null,
         "value": 0.5975475472088082
     },
     "Ar40": {
@@ -80,14 +86,12 @@
             "use_standard_deviation_filtering": false
         },
         "fit": "parabolic",
-        "fn": 399,
+        "fn": 400,
         "include_baseline_error": true,
         "n": 400,
-        "outlier_excluded": [
-            110
-        ],
+        "outlier_excluded": null,
         "reviewed": true,
-        "user_excluded": [],
+        "user_excluded": null,
         "value": 50.60325044104917
     },
     "Ar41": {
